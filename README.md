@@ -1,4 +1,4 @@
-# Behavior-Intrinsic-Fear# Avoiding Death through Fear Intrinsic Conditioning
+# Avoiding Death through Fear Intrinsic Conditioning
 
 This repository is the official implementation of [Avoiding Death through Fear Intrinsic Conditioning](). 
 
