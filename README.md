@@ -49,7 +49,8 @@ To Run the Base PPO Test Use the following command line:
 
 '''
 python miniworldtrainer.py --intrisic-run --which-mann normal --intrinsic_type base
-'''
+''' < br/>
+
 IF COMMAND LINE arguements do no work please open miniworldtrainer.py  and uncommnent the predifined RunArgs Testing parameters 
 
 Using the Generated logs use the plotting_fear_utils.py 
